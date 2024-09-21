@@ -5,5 +5,6 @@ public class Runner {
         System.out.println("version 1");
         System.out.println("version 2");
         System.out.println("continuation of version 2");
+        System.out.println("version 3");
     }
 }
